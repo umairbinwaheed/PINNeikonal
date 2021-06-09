@@ -10,11 +10,13 @@ The scripts work with Tensorflow v2.2.0 and SciAnn v0.5.4.0
 ## Citation
 If you find our work useful in your research, please cite:
 ```
-@article{waheed2020eikonal,
-  title={Eikonal solution using physics-informed neural networks},
-  author={Waheed, Umair bin and Haghighat, Ehsan and Alkhalifah, Tariq and Song, Chao and Hao, Qi},
-  journal={arXiv preprint arXiv:2007.08330},
-  year={2020}
+@article{bin2021pinneik,
+  title={PINNeik: Eikonal solution using physics-informed neural networks},
+  author={bin Waheed, Umair and Haghighat, Ehsan and Alkhalifah, Tariq and Song, Chao and Hao, Qi},
+  journal={Computers \& Geosciences},
+  pages={104833},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
